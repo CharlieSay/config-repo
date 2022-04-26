@@ -1,0 +1,9 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="kotest-plugin-intellij" />
+      </list>
+    </option>
+  </component>
+</application>

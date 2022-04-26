@@ -1,0 +1,6 @@
+AceJump
+String Manipulation
+com.kagof.pokeprogress
+izhangzhihao.rainbow.brackets
+kotest-plugin-intellij
+org.sonarlint.idea

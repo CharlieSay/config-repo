@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="sit1-truststore" type="AUTO_DETECTED" />
+      <mapping ext="st" type="HTML" />
+      <mapping ext="avsc" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="ks-bikes-body-type.svg" type="PLAIN_TEXT" />
+      <mapping pattern="V46__increase_review_title_length" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping pattern="Channels" type="TypeScript" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="avro" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="avsc" approved="true" type="Avro™ IDL" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
+      <removed_mapping ext="mustache" approved="true" type="Handlebars/Mustache" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".avsc" approved="true" type="JSON" />
+      <mapping ext="avro" type="Avro™ IDL" />
+    </extensionMap>
+  </component>
+</application>
